@@ -1,0 +1,26 @@
+body {
+    font-size: 24px;
+}
+p img {
+    margin: 0 auto;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+nav{
+   margin: 20px 0px;
+   text-align: center;
+   padding: 20px 0px;
+   background-color: red;
+   font-size: 36px;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: rgb(255, 255, 255);
+}
